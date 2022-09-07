@@ -1,7 +1,7 @@
 # Dissecting American Fuzzy Lop - A FuzzBench Evaluation
 
 This repo contains the code in the AFL/ folder and the artifacts to reproduce the experiments in the fuzzbench/ folder.
-The reports with the output of the experiments is contained in the reports/ folder.
+The reports with the output of the experiments is contained in the reports/ folder (online version at https://eurecom-s3.github.io/dissecting_afl/reports/).
 
 To build all the AFL variants used in the paper follow the readme in the AFL/ folder, to run the experiments follow the fuzzbench documentation.
 

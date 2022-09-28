@@ -5,7 +5,7 @@ We suggest you to use Ubuntu 20.04 to avoid additional complications.
 Install the following packages from apt:
 
 ```
-sudo apt-get install build-essential python3.8-dev qt5-default python3-pyqt5.qtwebengine libpq-dev
+sudo apt-get install build-essential python3.8-dev qt5-default python3-pyqt5.qtwebengine libpq-dev postgresql
 ```
 
 To reproduce each table in the paper, look at the following online reports in the FuzzBench service:
